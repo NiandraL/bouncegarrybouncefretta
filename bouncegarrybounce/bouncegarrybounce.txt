@@ -1,0 +1,9 @@
+"bouncegarrybounce"
+{
+	"base"		"fretta13"
+	"title"		"Bounce Garry Bounce"
+	"maps"	"^gj_"
+	"author"	"Niandra Lades"
+	"menusystem"	"1"
+
+}
